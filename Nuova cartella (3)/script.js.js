@@ -1,8 +1,8 @@
 
        
  
-  const num1 = (prompt("Inserisci il primo numero:"));
-  const num2 = (prompt("Inserisci il secondo numero:"));
+  const num1 = parseInt(prompt("Inserisci il primo numero:"));
+  const num2 = parseInt(prompt("Inserisci il secondo numero:"));
 
   
   const somma = num1 + num2;
